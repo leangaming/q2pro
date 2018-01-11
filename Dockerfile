@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER Karolis Stasaitis <stkarolis@gmail.com>
+LABEL maintainer "Karolis Stasaitis <stkarolis@gmail.com>"
 
 RUN adduser q2pro -D
 
